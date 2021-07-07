@@ -2140,8 +2140,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     ImsService \
     SoterService \
-    HotwordEnrollmentOKGoogleCORTEXM4 \
-    HotwordEnrollmentXGoogleCORTEXM4 \
     mediatek-common \
     mediatek-framework \
     mediatek-ims-base \
